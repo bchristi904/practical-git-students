@@ -1,4 +1,4 @@
-# The Practical Git
+ii# The Practical Git
 
 Hi,
 I am the first to submit a pull request to this repository and I am so happy to do it!
@@ -9,3 +9,7 @@ Other than that, I hope you enjoy the book and contribute your bio to this repos
 
 Cheers,
 The Practical Git
+
+
+Bio:
+Working it with GIT:  Gitting going.
